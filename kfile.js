@@ -1,4 +1,4 @@
-let project = new Project('monprojet');
+let project = new Project('TP2Labyrinthes');
 
 project.kore = false;
 project.cmd = true;
